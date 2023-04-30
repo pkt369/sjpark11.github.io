@@ -28,7 +28,7 @@ last_modified_at: 2023-04-30
 <h2> 구성 </h2>
 
 위에서 설명한 설계를 기준으로 크게 2가지 영역으로 나뉘었습니다. <br>
-![java_gc_structure](/assets/images/posts_img/java-garbage-collector/java_gc_ structure.png)
+![java_gc_structure](/assets/images/posts_img/java-garbage-collector/java_gc_structure.png)
 <br>
 
 <h3> 1. Young 영역 </h3>
