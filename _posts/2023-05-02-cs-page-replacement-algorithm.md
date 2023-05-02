@@ -32,11 +32,13 @@ FIFO 알고리즘은 먼저 들어간것이 먼저 나오는 알고리즘입니�
 <br>
 
 ## OPT (Optimal = 최적) 알고리즘 
+![OPT](/assets/images/posts_img/cs-page-replacement-algorithm/OPT-Algorithm.png) <br>
 OPT 알고리즘은 앞으로 일어날 페이지를 미리 알고 최적의 페이지 교체를 이루어내는 알고리즘입니다.<br>
 최적의 알고리즘으로 page-fault 가 가장 작습니다.<br>
 <br>
 
 ## LRU (Least Recently Used)
+![LRU](/assets/images/posts_img/cs-page-replacement-algorithm/LRU.png) <br>
 LRU 알고리즘은 가장 오래동안 사용되지 않은 페이지를 교체하는 알고리즘입니다.<br>
 많은 운영체제가 채택한 알고리즘입니다.<br>
 <br>
@@ -48,6 +50,3 @@ LFU 알고리즘은 가장 적게 참조된 페이지를 교체하는 알고리�
 ## MFU (Most Frequently Used)
 MFU 알고리즘은 LFU 알고리즘과 반대로 가장 많이 참조된 페이지를 교체하는 알고리즘입니다.<br>
  
-
-
-
