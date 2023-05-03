@@ -44,9 +44,11 @@ LRU 알고리즘은 가장 오래동안 사용되지 않은 페이지를 교체�
 <br>
 
 ## LFU (Least Frequently Used)
+![LFU](/assets/images/posts_img/cs-page-replacement-algorithm/LFU.png) <br>
 LFU 알고리즘은 가장 적게 참조된 페이지를 교체하는 알고리즘입니다.<br>
 <br>
 
 ## MFU (Most Frequently Used)
+![MFU](/assets/images/posts_img/cs-page-replacement-algorithm/MFU.png) <br>
 MFU 알고리즘은 LFU 알고리즘과 반대로 가장 많이 참조된 페이지를 교체하는 알고리즘입니다.<br>
  
