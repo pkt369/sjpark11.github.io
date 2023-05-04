@@ -22,7 +22,9 @@ categories:
     url: /categories/JAVA/
   - title: "CS"
     url: /categories/CS/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "network"
+    url: /categories/network/
+  - title: "PHP"
+    url: /categories/PHP/
+  - title: "JavaScript"
+    url: /categories/JavaScript/
